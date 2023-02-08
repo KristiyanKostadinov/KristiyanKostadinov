@@ -72,3 +72,8 @@ Here are some ideas to get you started:
     width="40" height="40" />
 </div>
 
+<div>
+<h2>🔥 My Stats: </h2>
+  
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KristiyanKostadinov&layout=compact)](https://github.com/KristiyanKostadinov/github-readme-stats)
+  </div>
