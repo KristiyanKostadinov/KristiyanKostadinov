@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn Badge" href="https://www.linkedin.com/in/kristiyan-kostadinov"/> 
+    alt="LinkedIn Badge" href="[https://www.linkedin.com/in/kristiyan-kostadinov](https://www.linkedin.com/in/kristiyan-kostadinov/)"/> 
 </div>
 <div>
   <h2>Here is a little more about me:</h2>
